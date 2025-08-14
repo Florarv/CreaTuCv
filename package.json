@@ -1,0 +1,8 @@
+{
+  "name": "cv-builder-netlify",
+  "version": "1.0.0",
+  "description": "Dependencias para la función de Netlify",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
